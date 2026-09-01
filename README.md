@@ -1,6 +1,6 @@
 <!-- Cabeçalho -->
 <h1 align="center">Eae, eu sou Ariel!</h1>
-<h3 align="center">Desenvolvedor de Software | Analista de Sistemas | Engenharia da Computação</h3>
+<h3 align="center">Desenvolvedor de Software | Engenharia da Computação</h3>
 
 <p align="center">
   Transformando código em soluções eficientes. Apaixonado por arquitetura de backend, DevOps e automação de sistemas.
