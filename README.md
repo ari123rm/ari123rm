@@ -1,5 +1,5 @@
 <!-- Cabeçalho -->
-<h1 align="center">Eae, eu sou Ariel!</h1>
+<h1 align="center">Eae, eu sou Ariel! 👋</h1>
 <h3 align="center">Desenvolvedor de Software | Engenharia da Computação</h3>
 
 <p align="center">
@@ -9,6 +9,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ari123rm&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do Ariel" />
   </a>
 </p>
 
@@ -66,12 +72,16 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/ari123rm">
-    <img src="https://github-readme-stats.vercel.app/api?username=ari123rm&show_icons=true&theme=dracula&locale=pt-br&hide_border=true" alt="Estatísticas do Ariel" width="48%" />
-  </a>
-  <a href="https://github.com/ari123rm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari123rm&layout=compact&theme=dracula&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ari123rm&show_icons=true&theme=dracula&locale=pt-br&hide_border=true" alt="Estatísticas do Ariel" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari123rm&layout=compact&theme=dracula&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ari123rm&theme=dracula&hide_border=true" alt="Sequência de Commits" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ari123rm&theme=dracula&hide_border=true&area=true&color=ff79c6&line=bd93f9&point=50fa7b" alt="Gráfico de Atividade" width="100%" />
 </p>
 
 ---
