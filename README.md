@@ -16,11 +16,10 @@
 
 ## 👨‍💻 Sobre mim
 
-* 🏢 Atualmente atuando como **Desenvolvedor de Software e Analista de Sistemas** em P&D na Eletra Energy.
 * 🎓 Estudante de **Engenharia da Computação**.
 * 💻 Focado na construção de sistemas robustos, desde a criação de APIs escaláveis e microserviços até a orquestração completa da infraestrutura.
 * 🛠️ Tenho forte vivência com integrações complexas, observabilidade de sistemas e pipelines de CI/CD.
-* 🎮 Nas horas vagas, gerencio servidores customizados de Minecraft e jogo Valorant, LoL e TFT.
+* 🎮 Nas horas vagas, gerencio servidores customizados de Minecraft e jogo Valorant, LoL, CS2 e amo RPG de Mesa.
 
 ---
 
