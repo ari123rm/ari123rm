@@ -72,16 +72,20 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ari123rm&show_icons=true&theme=dracula&locale=pt-br&hide_border=true" alt="Estatísticas do Ariel" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari123rm&layout=compact&theme=dracula&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" height="160" />
+  <a href="https://github.com/ari123rm">
+    <img src="https://github-readme-stats.vercel.app/api?username=ari123rm&show_icons=true&theme=dracula&locale=pt-br&hide_border=true" alt="Estatísticas do Ariel" />
+  </a>
+  <a href="https://github.com/ari123rm">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ari123rm&layout=compact&theme=dracula&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ari123rm&theme=dracula&hide_border=true" alt="Sequência de Commits" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ari123rm&theme=dracula&hide_border=true" alt="Sequência de Commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ari123rm&theme=dracula&hide_border=true&area=true&color=ff79c6&line=bd93f9&point=50fa7b" alt="Gráfico de Atividade" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ari123rm&theme=dracula&hide_border=true&area=true&color=ff79c6&line=bd93f9&point=50fa7b" alt="Gráfico de Atividade" />
 </p>
 
 ---
