@@ -18,7 +18,6 @@
 
 * 🎓 Estudante de **Engenharia da Computação** e um desenvolvedor que adora ver as coisas funcionando nos bastidores.
 * 💻 No código, meu foco é criar sistemas robustos, APIs que aguentam o tranco e automatizar tudo que for possível com DevOps e CI/CD.
-* 🔌 Tenho um carinho especial por **IoT e Sistemas Embarcados** — adoro programar microcontroladores, criar automações e fazer o software interagir com o mundo físico!
 * 🎲 Sou apaixonado por **RPG de Mesa**. Levo o hobby tão a sério que desenvolvo sistemas e mods customizados para o **Foundry VTT** para deixar as campanhas ainda mais imersivas.
 * 🎮 E quando quero dar uma relaxada, estou configurando e otimizando meus próprios servidores de **Minecraft** ou perdendo a noção do tempo no Baldurs Gate.
 
