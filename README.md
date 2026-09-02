@@ -8,13 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ari123rm" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ari123rm&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do Ariel" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" target="_blank">
   </a>
 </p>
 
@@ -50,6 +44,8 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-234EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### ☁️ Infraestrutura, DevOps & Observabilidade
@@ -60,6 +56,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portainer-C080FF?style=for-the-badge&logo=Portainer&logoColor=fff" />
 </p>
 
 ### 🎨 Frontend
@@ -67,6 +64,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=fff" />
 </p>
 
 ### 📟 Microcontroladores e Baixo Nível
@@ -83,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/ari123rm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ari123rm&theme=dracula" alt="Estatísticas do Ariel" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ari123rm&theme=dracula" alt="Estatísticas Gerais" width="48%" />
   </a>
   <a href="https://github.com/ari123rm">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ari123rm&theme=dracula" alt="Linguagens mais usadas" width="48%" />
@@ -91,12 +90,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ari123rm&theme=dracula&hide_border=true" alt="Sequência de Commits" />
+  <a href="https://github.com/ari123rm">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ari123rm&theme=dracula&utcOffset=-3" alt="Horários mais produtivos" />
+  </a>
+  <a href="https://github.com/ari123rm">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ari123rm&theme=dracula&hide_border=true" alt="Sequência de Commits" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ari123rm&theme=dracula&hide_border=true&area=true&color=ff79c6&line=bd93f9&point=50fa7b" alt="Gráfico de Atividade" width="100%" />
-</p>
+
 
 ---
 <p align="center">
