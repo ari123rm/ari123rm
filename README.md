@@ -6,12 +6,6 @@
   Transformando código em soluções eficientes. Apaixonado por arquitetura de backend, DevOps e automação de sistemas.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ari123rm" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" target="_blank">
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
