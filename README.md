@@ -102,5 +102,5 @@
 
 ---
 <p align="center">
-  <i>"A complexidade de um sistema é diretamente proporcional à clareza da sua documentação."</i>
+  <i>"Programar é como ser um detetive onde você também é o assassino."</i>
 </p>
