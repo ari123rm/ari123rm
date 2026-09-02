@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/ari123rm" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </p>
@@ -25,7 +25,9 @@
 * 🎓 Estudante de **Engenharia da Computação**.
 * 💻 Focado na construção de sistemas robustos, desde a criação de APIs escaláveis e microserviços até a orquestração completa da infraestrutura.
 * 🛠️ Tenho forte vivência com integrações complexas, observabilidade de sistemas e pipelines de CI/CD.
+* 🔌 Entusiasta de **Internet das Coisas (IoT) e Sistemas Embarcados**, programando microcontroladores e integrando hardware e software.
 * 🎮 Nas horas vagas, gerencio servidores customizados de Minecraft e jogo Valorant, LoL, CS2 e amo RPG de Mesa.
+* 🎲 Amo RPG de Mesa e desenvolvo sistemas e modificações para o Foundry VTT para melhorar a experiência das minhas sessões.
 
 ---
 
@@ -67,16 +69,24 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+### 📟 Microcontroladores e Baixo Nível
+<p>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/ari123rm">
-    <img src="https://github-readme-stats.vercel.app/api?username=ari123rm&show_icons=true&theme=dracula&locale=pt-br&hide_border=true" alt="Estatísticas do Ariel" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ari123rm&theme=dracula" alt="Estatísticas do Ariel" width="48%" />
   </a>
   <a href="https://github.com/ari123rm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ari123rm&layout=compact&theme=dracula&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ari123rm&theme=dracula" alt="Linguagens mais usadas" width="48%" />
   </a>
 </p>
 
@@ -85,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ari123rm&theme=dracula&hide_border=true&area=true&color=ff79c6&line=bd93f9&point=50fa7b" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ari123rm&theme=dracula&hide_border=true&area=true&color=ff79c6&line=bd93f9&point=50fa7b" alt="Gráfico de Atividade" width="100%" />
 </p>
 
 ---
